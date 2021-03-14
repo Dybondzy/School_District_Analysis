@@ -23,3 +23,17 @@ Average reading score
 Percentage of students who passed math
 Percentage of students who passed reading
 Overall passing percentage
+
+
+To get the percentage of students who passed math and reading, we will write code to:
+
+Determine the passing grade.
+Get the number of students who passed math and reading in separate DataFrames.
+Calculate the number of students who passed math and reading.
+Calculate the percentage of students who passed math and reading.
+To get the overall passing percentage, we will write code to:
+
+Get the number of students who passed both math and reading in a DataFrame.
+Calculate the number of students who passed both math and reading.
+Calculate the percentage of students who passed both math and reading.
+

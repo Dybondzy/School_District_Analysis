@@ -37,3 +37,13 @@ Get the number of students who passed both math and reading in a DataFrame.
 Calculate the number of students who passed both math and reading.
 Calculate the percentage of students who passed both math and reading.
 
+
+Total number of schools in the column "Total Schools"
+Total number of students in the column "Total Students"
+Total budget in the column "Total Budget"
+Average reading score in the column "Average Reading Score"
+Average math score in the column "Average Math Score"
+Percentage of students passing reading in the column "% Passing Reading"
+Percentage of students passing math in the column "% Passing Math"
+Overall passing percentage in the column "% Overall Passing"
+

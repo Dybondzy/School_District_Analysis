@@ -134,4 +134,10 @@ Average Reading Score
 % Passing Reading
 % Overall Passing
 
+Looking at the per_school_counts Series, we can see that the highest student population is 4,976. Therefore, the upper edge will be 5,000. Because we have only three bins—small, medium, and large—here's how we can group the school sizes:
+
+"Small" schools have fewer than 1,000 students
+"Medium" schools have 1,000–1,999 students
+"Large" schools have 2,000–5,000 students
+
 

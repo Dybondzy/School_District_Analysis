@@ -114,3 +114,24 @@ Percentage of students passing math for each school in the "% Passing Math" colu
 Percentage of students passing reading for each school in the "% Passing Reading" column
 Overall passing percentage for each school in the "% Overall Passing" column
 
+
+In the per_school_summary_df DataFrame, we will format the Total School Budget and Per Student Budget columns to include:
+
+A U.S. dollar sign 
+Two decimal places
+A thousands separator
+
+
+If the columns were not ordered correctly, put them in the following order:
+
+School Type
+Total Students
+Total School Budget
+Per Student Budget
+Average Math Score
+Average Reading Score
+% Passing Math
+% Passing Reading
+% Overall Passing
+
+

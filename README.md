@@ -89,3 +89,28 @@ Average Reading Score
 % Passing Reading
 % Overall Passing
 
+This next project requires you to get the following key metrics for each school and place them in a school summary DataFrame. As a reminder, here are the key metrics you're working with: 
+
+School name
+School type
+Total students
+Total school budget
+Per student budget
+Average math score
+Average reading score
+% passing math
+% passing reading
+% overall passing
+
+Now that we have performed all the calculations needed for the school summary, we can add the following values to a new DataFrame named per_school_summary_df. The data and columns of the DataFrame will be:
+
+Type of school in the "School Type" column
+Total students per school in the "Total Students" column
+Total budget per school in the "Total School Budget" column
+Total budget per student for each school in the "Per Student Budget" column
+Average math score for each school in the "Average Math Score" column
+Average reading score for each school in the "Average Reading Score" column
+Percentage of students passing math for each school in the "% Passing Math" column
+Percentage of students passing reading for each school in the "% Passing Reading" column
+Overall passing percentage for each school in the "% Overall Passing" column
+

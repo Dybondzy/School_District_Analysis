@@ -78,3 +78,14 @@ In this format, the gradevariable is referenced in front of the colon, so there 
 After the colon, the .0f means to format the grade with no decimal place, where the "period" is for the decimal place, the "0" is for "no" decimal place, and the "f" means floating-point decimal. If we wanted to format to one decimal place, we would use 1 instead of 0, and 2 for two decimal places, and so on.
 
 
+The order of the columns in the district_summary_df DataFrame should be as follows:
+
+Total Schools
+Total Students
+Total Budget
+Average Math Score
+Average Reading Score
+% Passing Math
+% Passing Reading
+% Overall Passing
+

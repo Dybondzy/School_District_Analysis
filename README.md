@@ -47,3 +47,16 @@ Percentage of students passing reading in the column "% Passing Reading"
 Percentage of students passing math in the column "% Passing Math"
 Overall passing percentage in the column "% Overall Passing"
 
+Debug and fix errors faster.
+Make your code more readable.
+Reuse code by importing functions into other algorithms.
+Speed up programming development. Multiple team members can work on separate functions of a complex algorithm to speed up the development of the project.
+A hallmark of professional programmers is that they can take long blocks of code and write smaller pieces of that code as functions.
+
+There are four basic parts to a function:
+
+The name, which is what we call the function
+The parameters, which are values we send to the function
+The code block, which are the statements under the function that perform the task
+The return value, which is what the function gives back, or "returns," to use when the task is complete
+

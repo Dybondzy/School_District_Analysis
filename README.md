@@ -30,3 +30,13 @@ Use the code snippet provided in Step 1 to import the NumPy module: import numpy
 
 Use the code snippet provided in Step 2 for the Pandas loc method.
 
+To select all the ninth-grade reading scores at Thomas High School, use the following steps to write code inside the brackets of the loc method:
+
+a) Add an opening parenthesis, then use a comparison operator to retrieve all the rows with Thomas High School from the "school_name" column of the student_data_df, then close the parenthesis.
+
+b) Add a logical operator then another opening parenthesis, then use a comparison operator to retrieve all the rows with ninth grade from the "grade" column of the student_data_df, then close the parenthesis.
+
+c) To change the reading scores only, add a comma after the last closing parenthesis then add the "reading_score" column.
+
+d) Outside of the closing brackets of the loc method, set the ninth-grade reading scores from Thomas High School equal to np.nan.
+

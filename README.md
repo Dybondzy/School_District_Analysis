@@ -22,6 +22,9 @@ Once your code is working, you'll make a copy of the PyCitySchools_Challenge_tes
 
 When you're ready to submit, be sure to check that all DataFrames created for Deliverables 1 and 2 are visible in your outputs. Do not include any unnecessary print statements in your code.
 
+
+### Deliverable 1
+
 Deliverable 1: Replace Ninth-Grade Reading and Math Scores (50 points)
 Deliverable 1 Instructions
 Using the Pandas loc method with conditional statements and comparison and logical operators, select the ninth-grade reading and math scores for Thomas High School. Then, use the Pandas NumPy module to change the reading and math scores to NaN.
@@ -40,3 +43,26 @@ c) To change the reading scores only, add a comma after the last closing parenth
 
 d) Outside of the closing brackets of the loc method, set the ninth-grade reading scores from Thomas High School equal to np.nan.
 
+### Deliverable 2
+
+Deliverable 2: Repeat the School District Analysis (25 points)
+Deliverable 2 Instructions
+Repeat the school district analysis you did in this module, and recreate the following metrics:
+
+The district summary
+The school summary
+The top 5 and bottom 5 performing schools, based on the overall passing rate
+The average math score for each grade level from each school
+The average reading score for each grade level from each school
+The scores by school spending per student, by school size, and by school type
+In Steps 1-4, you’ll update the district summary. For this task, you’ll recalculate the total student count by subtracting the number of ninth-grade students in Thomas High School from the total student count, then you'll recalculate the passing math and passing reading percentages, and the overall passing percentage with the recalculated total student count.
+
+In Steps 5-14, you’ll execute the code from this module that creates and formats the School Summary DataFrame, then update the school summary using the 10th-12th graders from Thomas High School as follows:
+
+First, you’ll calculate the number of 10th-12th graders in Thomas High School.
+Create three new DataFrames for the 10th-12th graders from Thomas High School: students who passed math, students who passed reading, and students who passed both math and reading.
+Using these DataFrames, you'll recalculate the percentage of students who passed math, passed reading, and passed both math and reading for Thomas High School only.
+Finally, you'll replace the % Passing Math, % Passing Reading, and % Overall Passing scores in the current School Summary DataFrame with the new passing percentages for Thomas High School.
+
+
+### Deliverable 3

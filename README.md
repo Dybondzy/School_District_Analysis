@@ -43,6 +43,8 @@ c) To change the reading scores only, add a comma after the last closing parenth
 
 d) Outside of the closing brackets of the loc method, set the ninth-grade reading scores from Thomas High School equal to np.nan.
 
+https://github.com/Dybondzy/School_District_Analysis/blob/main/PyCitySchools_Challenge_starter_code.ipynb
+
 ### Deliverable 2
 
 Deliverable 2: Repeat the School District Analysis (25 points)
